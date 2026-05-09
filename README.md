@@ -43,17 +43,6 @@ cd <your-repo>
 pip install -r requirements.txt
 ```
 
-If you don't have a `requirements.txt` yet, create one with:
-
-```
-requests
-beautifulsoup4
-pandas
-numpy
-matplotlib
-jupyter
-```
-
 ## How to Run
 
 1. **Scrape today's menu data**
